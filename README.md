@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Java Developer** and **Mobile Developer** 
 
 ## 🚀 About Me
 - 🎯 **Role**: Java & Kotlin Developer specializing in backend and mobile solutions
-- 🌍 **Location**: Poland
+- 🌍 **Location**: Kraków/Rzeszów, Poland
 - 💻 **Focus Areas**: Backend systems, mobile apps and cross-platform solutions
 - 🌱 **Currently Learning**: Advanced system architectures and cloud integrations
 
