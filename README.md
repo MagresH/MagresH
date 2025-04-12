@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I'm a **Java Developer** and **Mobile Developer** 
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagresH&layout=pie" alt="GitHub Stats">
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagresH&layout=donut" alt="GitHub Stats">
+</a>
